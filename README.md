@@ -6,7 +6,7 @@ I'm Archie, a 19 year old developer from the UK! I am a second year software eng
 
 ### 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SirArchibald97&theme=dark)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirArchibald97&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirArchibald97&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ Languages and Tools
 <div id="tech">
