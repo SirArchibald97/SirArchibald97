@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm Archie, a 19 year old developer from the UK! I am a second year software engineering student, and I code a lot in my spare time, for university and my own projects. On top of that, I'm an avid gamer, I make stupid videos for YouTube and stream sometimes, and I enjoy reading.
+I'm Archie, a 20 year old developer from the UK! I am a second year software engineering student, and I code a lot in my spare time, for university and my own projects. On top of that, I'm an avid gamer, I make stupid videos for YouTube and stream sometimes, and I enjoy reading.
 
 Check out the projects I've worked on @ [SirArchibald.dev](https://sirarchibald.dev)
 
