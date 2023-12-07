@@ -1,7 +1,6 @@
 ### 👋 Hi there
 
-I'm Archie, a 20 year old developer from the UK! I am a second year software engineering student, and I code a lot in my spare time, for university and my own projects. On top of that, I'm an avid gamer, I make stupid videos for YouTube and stream sometimes, and I enjoy reading.
-
+I'm Archie, a 20 year old developer from the UK! I am a final year software engineering student, and I code a lot in my spare time, for university and my own projects. On top of that, I'm an avid gamer, I enjoy reading fantasy novels, swimming and creating stupid videos online!
 Check out the projects I've worked on @ [SirArchibald.dev](https://sirarchibald.dev)
 
 ---
@@ -13,15 +12,17 @@ Check out the projects I've worked on @ [SirArchibald.dev](https://sirarchibald.
 ### 🛠️ Languages and Tools
 <div id="tech">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="32" width="32" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="32" width="32" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="32" width="32" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="32" width="32" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="32" width="32" />
+  <br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" heigh="32" width="32" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="32" width="32" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="32" width="32" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="32" width="32" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="32" width="32" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="32" width="32" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="32" width="32" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="32" width="32" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="32" width="32" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="32" width="32" />
 </div>
 
 ---
@@ -30,4 +31,5 @@ Check out the projects I've worked on @ [SirArchibald.dev](https://sirarchibald.
 <div id="badges">
   <a href="https://youtube.com/@sirarchibald"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube Badge"/></a>
   <a href="https://twitter.com/sirarchibald97"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/></a>
+  <a href="https://twitch.tv/sirarchibald97"><img src="https://img.shields.io/badge/Twitch-purple?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitter Badge"/></a>
 </div>
