@@ -1,7 +1,12 @@
 ### 👋 Hi there
 
-I'm Archie, a 20 year old developer from the UK! I am a final year software engineering student, and I code a lot in my spare time, for university and my own projects. On top of that, I'm an avid gamer, I enjoy reading fantasy novels, swimming and creating stupid videos online!
-Check out the projects I've worked on @ [SirArchibald.dev](https://sirarchibald.dev)
+I'm Archie, a 20 year old developer and designer from the UK, and I go by SirArchibald online. I am passionate about games design and looking to enter a career in the industry.
+
+I have 8 years experience with programming and mostly develop for Minecraft and the web. I'm currently studying an undergraduate degree in software engineering, where I am in my third and final year.
+
+In my spare time, I enjoy playing video games, reading fantasy novels and swimming! I am also a moderator for MCC Island, a Minecraft server created by Noxcrew.
+
+Check out more about me at my website [SirArchibald.dev](https://sirarchibald.dev)
 
 ---
 
