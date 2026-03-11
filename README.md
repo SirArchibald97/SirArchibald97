@@ -1,10 +1,10 @@
 ### 👋 Hi there
 
-I'm Archie, a 20 year old developer and designer from the UK, and I go by SirArchibald online. I am passionate about games design and looking to enter a career in the industry.
+I'm a 22 year software developer and game designer from the UK, and I go by SirArchibald online. I've been coding since I was 14 years old, starting out teaching myself HTML and JavaScript in my bedroom, and now I have a BSc in Software Engineering and an MA in Game Design.
 
-I have 8 years experience with programming and mostly develop for Minecraft and the web. I'm currently studying an undergraduate degree in software engineering, where I am in my third and final year.
+I've been pursuing software development for almost a decade, teaching myself a variety of languages and frameworks on top of my formal studies at college and university. I've mainly focused on full-stack web development and game design, but I've dabbled with a wide range of other technologies.
 
-In my spare time, I enjoy playing video games, reading fantasy novels and swimming! I am also a moderator for MCC Island, a Minecraft server created by Noxcrew.
+I'm currently working in the software engineering industry, with a focus on full-stack web development. I am also working as the Co-Founder and Technical Lead for MontGo Studios, a Roblox game studio, as well as several solo sides projects.
 
 Check out more about me at my website [SirArchibald.dev](https://sirarchibald.dev)
 
